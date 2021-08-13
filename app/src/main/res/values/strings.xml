@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">FinanceHome</string>
     <string name="design">Design</string>
+    <string name="totalDebet">Общая сумма прихода:</string>
+    <string name="totalCredit">Общая сумма расхода:</string>
 </resources>
